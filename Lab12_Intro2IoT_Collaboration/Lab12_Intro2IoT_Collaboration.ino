@@ -60,6 +60,7 @@ bool isButtonActivated() {
   } else {
     // Button pressed
     return true;
+    
   }
 
   // HINT: Serial.print should say "ON" or "OFF" too
